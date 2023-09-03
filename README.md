@@ -14,8 +14,7 @@ Foot Tube is your one-stop destination for the latest football (soccer) highligh
 
 ## Live Demo
 
-PREVIEW Coming Soon ...
-
+[Live PREVIEW](https://foottube.vercel.app/) https://foottube.vercel.app/
 ## Getting Started
 
 To get started with Foot Tube, follow these steps:
