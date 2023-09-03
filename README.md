@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Foot Tube - Your Football Highlights Provider
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Foot Tube Logo](/public/logo192.png)
 
-## Available Scripts
+Foot Tube is your one-stop destination for the latest football (soccer) highlights from around the world. Stay updated with the most exciting goals, saves, and match moments, all in one place!
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Watch the latest football highlights.
+- Filter highlights by league, team, or country.
+- Search for specific highlights.
+- Responsive design for both desktop and mobile.
+- User-friendly interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+PREVIEW Coming Soon ...
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get started with Foot Tube, follow these steps:
 
-### `npm run build`
+1. Clone this repository: `git clone https://github.com/yourusername/foot-tube.git`
+2. Navigate to the project folder: `cd foot-tube`
+3. Install dependencies: `npm install`
+4. Put  your own ScoreBat API 
+5. Start the development server: `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js
+- ScoreBat API
+- Tailwind CSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Data Source
 
-### `npm run eject`
+Foot Tube uses the [ScoreBat API](https://www.scorebat.com/video-api/) to provide football highlights. The ScoreBat API retrieves highlights only from their official sources (channels) and is fully legal. For more information about ScoreBat and their sources, please visit their [official website](https://www.scorebat.com/).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+We welcome contributions from the community. Feel free to open issues or submit pull requests to help us improve Foot Tube.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Learn More
+## Acknowledgments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [ScoreBat](https://www.scorebat.com/) for providing the API.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+Enjoy your football highlights with Foot Tube!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Foot Tube](/public/logo512.png)
